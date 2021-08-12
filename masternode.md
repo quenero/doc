@@ -1,8 +1,8 @@
-## QUENERO MASERNODE
+## QUENERO MASTERNODE
 
-o seup a masernode is ver eas
+To setup a masternode in he quenero network is ver eas
 
-- Download he Quenero walle and ge a VPS wih a publi IP and run he walle daemon wih he below ommand
+- Download the Quenero wallet and get a VPS with a public IP and run the wallet daemon with the below command
 
 ```shell
 ./quenerod --masternode
@@ -16,7 +16,7 @@ masternode_registration
 
 ```shell
 Current supernode requirement: 24935.158006499262 quenero
-Will the operator contribute the entire supernode? (Y/Yes/N/No/C/Cancel): y
+Will the operator contribute the entire supernode? (Y/Yes/N/No/C/Cancel): yes
 ```
 
 ```shell
@@ -46,3 +46,4 @@ This should be in about 2 weeks, if it isn't, check this computer's clock.
 Please submit your registration into the blockchain before this time or it will be invalid.
 
 ```
+
