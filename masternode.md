@@ -5,7 +5,7 @@ To setup a masternode in he quenero network is ver eas
 - Download the Quenero wallet and get a VPS with a public IP and run the wallet daemon with the below command
 
 ```shell
-./quenerod --masternode --masternode --storage-server-port 23231 --masternode-public-ip 123.432.4.12
+./quenerod --masternode --storage-server-port 23231 --masternode-public-ip 123.432.4.12
 ```
 
 Then enter the below code once you have a full synec with the quenero nework
