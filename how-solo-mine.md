@@ -4,14 +4,15 @@ Mining Quenero is very easy and without stress. We are looking to setup a pool b
 
 Download he QMR console wallet from [https://quenero.tech/wallet/quenero-linux-x64-v10.1.0.tar.bz2](https://quenero.tech/wallet/quenero-linux-x64-v10.1.0.tar.bz2)
 
-untar the wallet
+### untar the wallet
 tar -vf quenero-linux-x64-v10.1.0.tar.bz2
+
 cd quenero
 
-quenero-blockchain-ancestry
 
 You will see the following for linux
 ``shell
+quenero-blockchain-ancestry
 quenero-blockchain-depth
 quenero-blockchain-export
 quenero-blockchain-import
