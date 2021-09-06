@@ -1,6 +1,6 @@
 ### Solo Mining Quenero 
 
-Mining Quenero is very easy and without stress. We are looking to setup a pool but for now you an simply solo mine
+Mining Quenero is very easy and without stress. We are looking to setup a pool but for now you can simply solo mine
 
 Download he QMR console wallet from [https://quenero.tech/wallet/quenero-linux-x64-v10.1.0.tar.bz2](https://quenero.tech/wallet/quenero-linux-x64-v10.1.0.tar.bz2)
 
