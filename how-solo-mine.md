@@ -24,7 +24,7 @@ quenero-wallet-cli
 quenero-wallet-rpc
 quenerod
 ```
-and the following for window
+And the following for window
 
 ```shell
 quenero-blockchain-export.exe
