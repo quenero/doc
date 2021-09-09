@@ -17,7 +17,7 @@ If you want to run with Masternode
 docker run --rm -it quenero/quenero --masternode --storage-server-port 33231 --masternode-public-ip 181.14.32.84
 ```
 
-create a wallet with docker
+## Create a wallet with docker
 Get the docker container id by running the below code
 ```css
 docker ps 
