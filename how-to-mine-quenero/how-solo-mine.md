@@ -15,7 +15,7 @@ cd quenero
 
 
 You will see the following for linux
-``text
+```text
 quenero-blockchain-ancestry
 quenero-blockchain-depth
 quenero-blockchain-export
@@ -28,6 +28,7 @@ quenero-sn-keys
 quenero-wallet-cli
 quenero-wallet-rpc
 quenerod
+
 ```
 And the following for window
 
