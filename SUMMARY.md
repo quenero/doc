@@ -12,4 +12,4 @@
 
 
 # Quenero Wallet
-* [Quenero Docker Wallet](setup-quenero-docker-wallet/quenero-docker-wallet.md)
+* [Quenero Docker Wallet](wallet/setup-quenero-docker-wallet/quenero-docker-wallet.md)
