@@ -1,4 +1,8 @@
-### Solo Mining Quenero 
+---
+description: >-
+  Solo Mining Quenero
+---
+ 
 
 Mining Quenero is very easy and without stress. We are looking to setup a pool but for now you can simply solo mine
 
@@ -11,7 +15,7 @@ cd quenero
 
 
 You will see the following for linux
-``shell
+``text
 quenero-blockchain-ancestry
 quenero-blockchain-depth
 quenero-blockchain-export
@@ -27,7 +31,7 @@ quenerod
 ```
 And the following for window
 
-```shell
+```text
 quenero-blockchain-export.exe
 quenero-blockchain-import.exe
 quenero-blockchain-mark-spent-outputs.exe
@@ -44,13 +48,13 @@ Run the Daemon Wallet
 
 Run it like this assuming we downloaded it in download folder and open it in power shell terminal if using window
 
-```shell
+```text
 C:\Users\USER\Downloads\quenero-win-x64-v10.1.0\quenero>./quenerod.exe
 ```
 
 You will see something like this:
 
-```
+```text
 C:\Users\USER\Documents\Downloads\quenero-win-x64-v10.1.0\quenero> ./quenerod.exe
 2021-09-06 23:36:33.045 I Quenero 'Beautiful Girls' (v10.1.0-release)
 2021-09-06 23:36:33.048 I Initializing daemon objects...
@@ -95,7 +99,7 @@ Use the "help" command to see the list of available commands.
 ```
 Open another terminal and go to he directory were you have the wallet and look for #quenero-wallet-cli.exe
 
-```shell
+```text
 
 C:\Users\USER\Downloads\quenero-win-x64-v10.1.0\quenero> ./quenero-wallet-cli.exe
 This is the command line Quenero wallet. It needs to connect to a Quenero
@@ -110,12 +114,13 @@ Specify wallet file name (e.g., MyWallet). If the wallet doesn't exist, it will 
 Wallet file name (or Ctrl-C to quit):
 ```
 Enter and name in 'Wallet file name (or Ctrl-C to quit):', let say jack is the name
-```shell 
+
+```text
 Wallet file name (or Ctrl-C to quit): jack
 ```
 Better follow the prompt
 
-```shell
+```text
 Quenero 'Beautiful Girls' (v10.1.0-release)
 Logging to C:\Users\USER\Downloads\quenero-win-x64-v10.1.0\quenero\quenero-wallet-cli.log
 Specify wallet file name (e.g., MyWallet). If the wallet doesn't exist, it will be created.
@@ -176,6 +181,6 @@ Background refresh thread started
 
 Once the wallet is created as above, use the below code to start mining in solo mode
 
-```shell
+```text
 start_mining
 ```
