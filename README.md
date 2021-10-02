@@ -12,5 +12,7 @@ description: >-
 ## Specifications
 
 *Ticker:* QMR
+
 *Algorithm:* RandomQ
+
 *Rewards:* **Masternode : 330 QMR Miners Reward: 120 QMR**
