@@ -7,9 +7,9 @@
 * [📥 Downloads](downloads.md)
 
 
-## Masternode Setup
-[Masternode Setup](masternode-setup/masternode.md)
+# Masternode Setup
+* [Masternode Setup](masternode-setup/masternode.md)
 
 
-## Quenero Wallet
-[Quenero Docker Wallet](setup-quenero-docker-wallet/quenero-docker-wallet.md)
+# Quenero Wallet
+* [Quenero Docker Wallet](setup-quenero-docker-wallet/quenero-docker-wallet.md)
