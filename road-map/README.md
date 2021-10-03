@@ -3,9 +3,10 @@ description: >-
   Quenero Road Map 
 ---
 
+
+
 Quenero will continue its development by involving more developers as we will mainain a Proof of work Algorithm.
 
-2021
 
 # 2021 Completed 
 
