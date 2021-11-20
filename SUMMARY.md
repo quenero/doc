@@ -10,7 +10,7 @@
 ## Masternode Setup
 
 * [Masternode Setup](masternode-setup/masternode.md)
-
+* [Deregister Masternode](masternode-setup/deregister-masternode.md)
 
 ## Quenero Wallet
 
