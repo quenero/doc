@@ -4,7 +4,7 @@ description: >-
 ---
 
 
-To setup a masternode in he quenero network is ver eas
+To setup a masternode in he quenero network is very easy
 
 - Download the Quenero wallet and get a VPS with a public IP and run the wallet daemon with the below command
 
