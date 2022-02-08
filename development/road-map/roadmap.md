@@ -22,7 +22,6 @@ Quenero will continue its development by involving more developers as we will ma
 
 # 2022 Not Completed
 
-- Quenero Mobile Wallet development 
 - Development of Quenero Pool
 - Forking and adding Quenero to [XMRIG](https://github.com/xmrig/xmrig)
 - Expansion of Quenero infrastructure to easily deploy in Ubuntu/Debian system
