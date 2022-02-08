@@ -16,6 +16,12 @@
 
 * [Quenero Docker Wallet](wallet/setup-quenero-docker-wallet/quenero-docker-wallet.md)
 
+## Buy With Quenero
+
+* [Buy VPS](buy/README.md)
+  * [Qago](buy/qago-vps.md)
+  * [VPS.LOL](buy/vps-lol.md)
+
 ## Others
 * [Development](development/README.md)
   * [Road Map](development/road-map/roadmap.md)
