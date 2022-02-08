@@ -16,7 +16,11 @@ Quenero will continue its development by involving more developers as we will ma
 - Quenero semi documentary is Release. [Documentary](https://docs.quenero.tech/) ✔️
 - Quenero Social media are made Announcements [Twitter](https://twitter.com/quenero5) | [Discord](https://discord.gg/434TYkhUj3) ✔️
 
-# 2021 Not Completed
+# 2022 Completed
+
+- Quenero Mobile Wallet development ✔️
+
+# 2022 Not Completed
 
 - Quenero Mobile Wallet development 
 - Development of Quenero Pool
