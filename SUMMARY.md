@@ -16,6 +16,11 @@
 
 * [Quenero Docker Wallet](wallet/setup-quenero-docker-wallet/quenero-docker-wallet.md)
 
+## Mobile Wallet
+*  [Mobile Wallet](mobile/README.md)
+   * [Mobile Privacy](mobile/privacy.md)
+   * [Mobile Terms of Use](mobile/terms_of_use.md)
+
 ## Buy With Quenero
 
 * [Buy VPS](buy/README.md)
